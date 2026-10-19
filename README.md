@@ -17,3 +17,6 @@ The entire memory, weights, and code are compressed into an 80KB file. Combined 
 
 ## 🚀 How to Run
 *(Instructions on how to install Termux, Ollama, and run the python scripts)*
+
+## 📄 Documentation
+📄 **[Read the full Technical Scientific Report (English)](NEXUS%20Technical-Scientific%20Report.pdf)**
