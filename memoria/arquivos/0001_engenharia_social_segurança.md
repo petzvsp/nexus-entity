@@ -1,0 +1,3 @@
+# Engenharia social (segurança)
+
+A engenharia social, no contexto de segurança da informação, refere-se à manipulação psicológica de pessoas para a execução de ações ou para a divulgação de informações confidenciais. Esse é um termo que descreve um tipo psicotécnico de intrusão que depende fortemente da interação humana e envolve enganar outras pessoas para a quebra de procedimentos de segurança. Um ataque clássico na engenharia social é quando uma pessoa se passa por profissional de alto nível dentro das organizações, dizendo possuir problemas urgentes de acesso ao sistema, conseguindo assim o acesso a locais restritos.
